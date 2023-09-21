@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzdwx4.webp",
+            "title": "private server Chicken Gun v 1.4.7 1",
+            "text_Content_": "Are you a fan of Chicken Gun? Then you're in for a treat! Our private server is designed to provide the best gaming experience and is now available with the latest version - v1.4.7. Get ready to dominate the battlefield, explore new features, and enjoy ad-free gaming. Say goodbye to limitations and say hello to endless fun!"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzdWRs.webp",
+            "title": "private server Chicken Gun v 1.4.7 2",
+            "text_Content_": "But that's not all! We also bring you the Private Server Chicago Remastered, where you can relive the nostalgia of the classic game with a modern twist. Join players from around the world in epic battles and prove your skills on the virtual arena of Windy City."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzdwx4.webp",
+            "title": "private server Chicken Gun v 1.4.7 3",
+            "text_Content_": "Looking for more excitement? Don't miss out on Red Box 2 Free Private Server, where you can unlock exclusive rewards, skins, and weapons. Gain the advantage and become a true Chicken Gun champion!"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzdElt.webp",
+            "title": "private server Chicken Gun v 1.4.7 4",
+            "text_Content_": "And if you're a fan of Chicago Remastered Roblox Redacted, you're in luck! Our server supports this thrilling version, allowing you to explore the city like never before. Dive into the vibrant world of Roblox Redacted and conquer the streets with your friends."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzdElt.webp",
+            "title": "private server Chicken Gun v 1.4.7 5",
+            "text_Content_": "With frequent updates and enhancements, our server is always up-to-date. Whether you're a fan of Chicken Gun 1.3.6 APK, excited about Chicken Gun New Update 1.0.0, or eager to explore Chicken Gun v3.1.02, we have everything you need. Stay ahead and enjoy the latest features and improvements right after their release."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzdNWl.png",
+            "title": "private server Chicken Gun v 1.4.7 6",
+            "text_Content_": "Join the gaming revolution today and experience the Private Server Chicken Gun v1.4.7 like never before. Download now and embark on an epic journey filled with action, friendship, and endless possibilities. Get ready to rule the game - your adventure begins here!"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzdGUX.jpg",
+            "title": "private server Chicken Gun v 1.4.7 7",
+            "text_Content_": "With frequent updates and enhancements, our server is always up-to-date. Whether you're a fan of Chicken Gun 1.3.6 APK, excited about Chicken Gun New Update 1.0.0, or eager to explore Chicken Gun v3.1.02, we have everything you need. Stay ahead and enjoy the latest features and improvements right after their release."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzdVJn.jpg",
+            "title": "private server Chicken Gun v 1.4.7 8",
+            "text_Content_": "And if you're a fan of Chicago Remastered Roblox Redacted, you're in luck! Our server supports this thrilling version, allowing you to explore the city like never before. Dive into the vibrant world of Roblox Redacted and conquer the streets with your friends."
         }
     ]
 }
